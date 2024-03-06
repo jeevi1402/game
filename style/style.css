@@ -1,0 +1,65 @@
+body {
+    background-color: aquamarine;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+    background-image: url(https://images.rawpixel.com/image_450/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yOS1qaXRlLTIwLWdvbGQtbWV0YWxsaWNfMS5qcGc.jpgz)
+}
+
+.img img {
+    width: 200px;
+    height: 200px;
+    ;
+    margin: 20px;
+}
+
+.img,
+.btn {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+h1,
+h2,
+footer {
+    text-align: center;
+}
+
+.container,
+h2 {
+    color: blue;
+}
+
+.container,
+h1 {
+    color: brown
+}
+
+button {
+    color: rgb(100, 9, 160);
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    border: solid 3px;
+    border-radius: 6px;
+    border-color: black;
+}
+
+p {
+    color: navy;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+
+img{
+    border: 6px   double;
+    border-radius: 50px;
+    color:crimson;
+    background-color: green;
+    
+}
